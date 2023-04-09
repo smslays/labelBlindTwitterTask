@@ -40,7 +40,7 @@ const TwitterTask = () => {
 
   useEffect(() => {
     axios
-      .get("http://www.mocky.io/v2/5d1ef97d310000552febe99d")
+      .get("https://www.mocky.io/v2/5d1ef97d310000552febe99d")
       .then((response) => {
         setTweets(response.data);
       })
