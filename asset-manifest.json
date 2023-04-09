@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/labelBlindTwitterTask/static/css/main.e6c13ad2.css",
+    "main.js": "/labelBlindTwitterTask/static/js/main.bcbbbfb2.js",
+    "static/js/787.b4ed71b4.chunk.js": "/labelBlindTwitterTask/static/js/787.b4ed71b4.chunk.js",
+    "index.html": "/labelBlindTwitterTask/index.html",
+    "main.e6c13ad2.css.map": "/labelBlindTwitterTask/static/css/main.e6c13ad2.css.map",
+    "main.bcbbbfb2.js.map": "/labelBlindTwitterTask/static/js/main.bcbbbfb2.js.map",
+    "787.b4ed71b4.chunk.js.map": "/labelBlindTwitterTask/static/js/787.b4ed71b4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.bcbbbfb2.js"
+  ]
+}
